@@ -65,7 +65,7 @@
  'JB': 'John Owen Brennan',
  'VJ': 'Valerie Jarrett',
  'NK': 'North Korea',
- 'ICE': 'U.S. Immigration and Customs Enforcement',
+ 'ICE': 'United States Immigration and Customs Enforcement',
  'NG': 'National Guard',
  'JK': 'John Kerry, Jared Kushner',
  'DNC': 'Democratic National Committee',
