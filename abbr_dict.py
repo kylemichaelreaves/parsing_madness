@@ -54,7 +54,7 @@
  'SA': 'Saudi Arabia',
  'AS': 'Adam Schiff',
  'MOS': 'Mossad',
- '@Jack': 'Jack Dorsey - Twitter CEO',
+ '@Jack': 'Jack Dorsey',
  'NP': 'Non-Profit, Nancy Pelosi',
  'ES': 'Eric Schmidt',
  'SS': 'Secret Service',
